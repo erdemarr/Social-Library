@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="SocialLibrary.API/SocialLibrary.API.csproj" />
+  </Folder>
+  <Folder Name="/frontend/" />
+</Solution>

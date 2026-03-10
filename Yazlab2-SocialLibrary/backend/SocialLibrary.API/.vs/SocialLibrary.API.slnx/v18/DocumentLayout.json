@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\controllers\\listscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\controllers\\listscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\data\\sociallibrarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\data\\sociallibrarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\entities\\userlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\entities\\userlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\entities\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\entities\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\models\\reviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\models\\reviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\models\\ratingmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\models\\ratingmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\models\\contentmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\models\\contentmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\entities\\contenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\entities\\contenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\entities\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\entities\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|c:\\users\\erdem\\desktop\\b\u00F6l\u00FCm\\yazlab1\\2.proje\\yazlab2-sociallibrary\\backend\\sociallibrary.api\\sociallibrary.api\\migrations\\20251129183235_adduserlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A918D252-2EF1-CB84-C4A6-8E39F37AD20B}|SocialLibrary.API\\SocialLibrary.API.csproj|solutionrelative:sociallibrary.api\\migrations\\20251129183235_adduserlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251129183235_AddUserLists.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Migrations\\20251129183235_AddUserLists.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Migrations\\20251129183235_AddUserLists.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Migrations\\20251129183235_AddUserLists.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Migrations\\20251129183235_AddUserLists.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:32:35.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserListItem.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\UserListItem.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Entities\\UserListItem.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\UserListItem.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Entities\\UserListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:31:03.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\UserList.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Entities\\UserList.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\UserList.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Entities\\UserList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:30:38.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Controllers\\ContentController.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Controllers\\ContentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:20:25.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Models\\ReviewModels.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Models\\ReviewModels.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Models\\ReviewModels.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Models\\ReviewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:19:54.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RatingModels.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Models\\RatingModels.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Models\\RatingModels.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Models\\RatingModels.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Models\\RatingModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:19:06.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Program.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Program.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:40:12.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListsController.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Controllers\\ListsController.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Controllers\\ListsController.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Controllers\\ListsController.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Controllers\\ListsController.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAkwOMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:33:15.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContentModels.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Models\\ContentModels.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Models\\ContentModels.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Models\\ContentModels.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Models\\ContentModels.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:18:33.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SocialLibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Data\\SocialLibraryContext.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Data\\SocialLibraryContext.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Data\\SocialLibraryContext.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Data\\SocialLibraryContext.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwHQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:08:45.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContentType.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\ContentType.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Entities\\ContentType.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\ContentType.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Entities\\ContentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:15:03.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\User.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:05:13.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\Review.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:04:52.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Entities\\Rating.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\Rating.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Entities\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:04:41.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\Content.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Entities\\Content.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Entities\\Content.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Entities\\Content.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:02:41.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Models\\UserDto.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:59:15.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:21:07.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Services\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Services\\PasswordService.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Services\\PasswordService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:43:25.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\appsettings.json",
+              "RelativeToolTip": "SocialLibrary.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T14:47:42.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "SocialLibrary.API\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Erdem\\Desktop\\B\u00F6l\u00FCm\\Yazlab1\\2.proje\\Yazlab2-SocialLibrary\\backend\\SocialLibrary.API\\SocialLibrary.API\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "SocialLibrary.API\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T20:02:59.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
